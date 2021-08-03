@@ -23,4 +23,4 @@ If it did change, why did it change?
 
 
 ## Additional information
-Full instructions can be found in the [instructions file](Instructions.pdf). Answers are available in the [notebooks repo](notebooks/rover_analysis.ipynb).
+Full instructions can be found in the [instructions file](instructions.pdf). Answers are available in the [notebooks repo](notebooks/rover_analysis.ipynb).
